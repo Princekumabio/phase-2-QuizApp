@@ -1,7 +1,7 @@
 
 body {
-   background-image: url('https: //images.unsplash.com/photo-1536337005238-94b997371b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80');
-   background-color: green;
+  background-image: url('https://wallpapercave.com/wp/wp6082581.jpg');
+    background-color: rgb(11, 91, 212);
 }
 .answer :hover{
   cursor: pointer;
